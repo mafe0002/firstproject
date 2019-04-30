@@ -1,2 +1,2 @@
-# firstproject
-My first project
+# templates
+Template files
